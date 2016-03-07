@@ -1,0 +1,1 @@
+Connecting a Github private repository to a private instance of Jenkins can be tricky. In this post I’ll show you how to configure both services so that pushes to your Github repository will automatically trigger builds in Jenkins, all while keeping both safely hidden from the general public.
