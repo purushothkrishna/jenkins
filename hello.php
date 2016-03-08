@@ -2,6 +2,6 @@
 
    function fun(){
 
-   echo 'hello fun 'l
+   echo 'hello fun ';
   }
 ?>
